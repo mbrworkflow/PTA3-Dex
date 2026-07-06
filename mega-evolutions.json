@@ -1,0 +1,2091 @@
+{
+  "source": "Kopia Version Goldenrod DATA SHEET.xlsx",
+  "count": 49,
+  "species": {
+    "Venusaur": [
+      {
+        "name": "Mega Venusaur",
+        "types": [
+          "Grass",
+          "Poison"
+        ],
+        "ability": "Thicker Fat",
+        "stats": {
+          "hp": 48,
+          "atk": 10,
+          "def": 12,
+          "satk": 12,
+          "sdef": 12,
+          "spd": 8
+        },
+        "statBoosts": {
+          "atk": 1,
+          "def": 3,
+          "satk": 1,
+          "sdef": 2
+        },
+        "moves": [
+          "Petal Dance",
+          "Synthesis",
+          "Solar Beam"
+        ],
+        "skills": [
+          "Sprouter",
+          "Threaded"
+        ],
+        "passives": [
+          "Growth",
+          "Growl",
+          "Overgrow",
+          "Chlorophyll",
+          "Thicker Fat"
+        ],
+        "size": "Huge",
+        "weight": "Heavy",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Sceptile": [
+      {
+        "name": "Mega Sceptile",
+        "types": [
+          "Grass",
+          "Dragon"
+        ],
+        "ability": "Lightning Rod",
+        "stats": {
+          "hp": 42,
+          "atk": 11,
+          "def": 8,
+          "satk": 15,
+          "sdef": 9,
+          "spd": 15
+        },
+        "statBoosts": {
+          "def": 1,
+          "satk": 4,
+          "spd": 1
+        },
+        "moves": [
+          "Dual Chop",
+          "X-Scissor",
+          "Leaf Storm"
+        ],
+        "skills": [
+          "Climber",
+          "Sprouter"
+        ],
+        "passives": [
+          "Agility",
+          "Screech",
+          "Leaf Guard",
+          "Overgrow",
+          "Lightning Rod"
+        ],
+        "size": "Huge",
+        "weight": "Medium",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Charizard": [
+      {
+        "name": "Mega Charizard X",
+        "types": [
+          "Fire",
+          "Dragon"
+        ],
+        "ability": "Tough Claws and Fangs",
+        "stats": {
+          "hp": 48,
+          "atk": 13,
+          "def": 11,
+          "satk": 13,
+          "sdef": 9,
+          "spd": 10
+        },
+        "statBoosts": {
+          "atk": 5,
+          "def": 2,
+          "satk": 2
+        },
+        "moves": [
+          "Wing Attack",
+          "Flamethrower",
+          "Fire Spin"
+        ],
+        "skills": [
+          "Firestarter",
+          "Sinker"
+        ],
+        "passives": [
+          "Growl",
+          "Blaze",
+          "Solar Power",
+          "Tough Claws and Fangs"
+        ],
+        "size": "Large",
+        "weight": "Heavy",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      },
+      {
+        "name": "Mega Charizard Y",
+        "types": [
+          "Fire",
+          "Flying"
+        ],
+        "ability": "Drought",
+        "stats": {
+          "hp": 48,
+          "atk": 10,
+          "def": 8,
+          "satk": 16,
+          "sdef": 12,
+          "spd": 10
+        },
+        "statBoosts": {
+          "atk": 2,
+          "def": -1,
+          "satk": 5,
+          "sdef": 3
+        },
+        "moves": [
+          "Wing Attack",
+          "Flamethrower",
+          "Fire Spin"
+        ],
+        "skills": [
+          "Firestarter",
+          "Sinker"
+        ],
+        "passives": [
+          "Growl",
+          "Blaze",
+          "Solar Power",
+          "Drought"
+        ],
+        "size": "Large",
+        "weight": "Heavy",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Blaziken": [
+      {
+        "name": "Mega Blaziken",
+        "types": [
+          "Fire",
+          "Fighting"
+        ],
+        "ability": "Speed Purity",
+        "stats": {
+          "hp": 48,
+          "atk": 16,
+          "def": 8,
+          "satk": 13,
+          "sdef": 8,
+          "spd": 10
+        },
+        "statBoosts": {
+          "atk": 3,
+          "satk": 2,
+          "sdef": 1
+        },
+        "moves": [
+          "Blaze Kick",
+          "Slash",
+          "Brave Bird"
+        ],
+        "skills": [
+          "Firestarter"
+        ],
+        "passives": [
+          "Bulk Up",
+          "Focus Energy",
+          "Speed Boost",
+          "Blaze",
+          "Speed Purity"
+        ],
+        "size": "Large",
+        "weight": "Medium",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Blastoise": [
+      {
+        "name": "Mega Blastoise",
+        "types": [
+          "Water"
+        ],
+        "ability": "Mega Cannon",
+        "stats": {
+          "hp": 48,
+          "atk": 10,
+          "def": 12,
+          "satk": 14,
+          "sdef": 12,
+          "spd": 8
+        },
+        "statBoosts": {
+          "atk": 2,
+          "satk": 5,
+          "sdef": 1
+        },
+        "moves": [
+          "Aqua Tail",
+          "Rain Dance",
+          "Hydro Pump"
+        ],
+        "skills": [
+          "Fountain",
+          "Swimmer"
+        ],
+        "passives": [
+          "Iron Defense",
+          "Rain Dish",
+          "Torrent",
+          "Mega Cannon"
+        ],
+        "size": "Large",
+        "weight": "Heavy",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Swampert": [
+      {
+        "name": "Mega Swampert",
+        "types": [
+          "Water",
+          "Ground"
+        ],
+        "ability": "Swifter Swim",
+        "stats": {
+          "hp": 60,
+          "atk": 15,
+          "def": 11,
+          "satk": 10,
+          "sdef": 11,
+          "spd": 7
+        },
+        "statBoosts": {
+          "atk": 4,
+          "def": 1,
+          "satk": 1,
+          "sdef": 2,
+          "spd": 1
+        },
+        "moves": [
+          "Muddy Water",
+          "Earthquake",
+          "Hammer Arm"
+        ],
+        "skills": [
+          "Fountain",
+          "Gilled",
+          "Swimmer",
+          "Groundshaper"
+        ],
+        "passives": [
+          "Growl",
+          "Damp",
+          "Torrent",
+          "Swifter Swim"
+        ],
+        "size": "Huge",
+        "weight": "Heavy",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Greninja": [
+      {
+        "name": "Mega Greninja",
+        "types": [
+          "Water",
+          "Dark"
+        ],
+        "ability": "Battle Bond",
+        "stats": {
+          "hp": 42,
+          "atk": 15,
+          "def": 7,
+          "satk": 15,
+          "sdef": 7,
+          "spd": 13
+        },
+        "statBoosts": {
+          "atk": 5,
+          "def": -1,
+          "satk": 5,
+          "spd": 1
+        },
+        "moves": [
+          "Water Shuriken",
+          "Double Team",
+          "Night Slash"
+        ],
+        "skills": [
+          "Fountain",
+          "Gilled",
+          "Swimmer"
+        ],
+        "passives": [
+          "Growl",
+          "Protean",
+          "Torrent",
+          "Battle Bond"
+        ],
+        "size": "Medium",
+        "weight": "Medium",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Beedrill": [
+      {
+        "name": "Mega Beedrill",
+        "types": [
+          "Bug",
+          "Poison"
+        ],
+        "ability": "Mega Adaptability",
+        "stats": {
+          "hp": 42,
+          "atk": 15,
+          "def": 4,
+          "satk": 2,
+          "sdef": 8,
+          "spd": 15
+        },
+        "statBoosts": {
+          "atk": 6,
+          "satk": -3,
+          "spd": 5
+        },
+        "moves": [
+          "Twineedle",
+          "Poison Jab",
+          "Fell Stinger"
+        ],
+        "skills": [
+          "Flight"
+        ],
+        "passives": [
+          "Agility",
+          "Focus Energy",
+          "Shield Dust",
+          "Sniper",
+          "Swarm",
+          "Mega Adaptability"
+        ],
+        "size": "Medium",
+        "weight": "Medium",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Scizor": [
+      {
+        "name": "Mega Scizor",
+        "types": [
+          "Bug",
+          "Steel"
+        ],
+        "ability": "Mega Technician",
+        "stats": {
+          "hp": 42,
+          "atk": 15,
+          "def": 14,
+          "satk": 7,
+          "sdef": 10,
+          "spd": 8
+        },
+        "statBoosts": {
+          "def": 2,
+          "satk": 1,
+          "sdef": 2,
+          "spd": 1
+        },
+        "moves": [
+          "Metal Claw",
+          "Night Slash",
+          "Iron Head"
+        ],
+        "skills": [
+          "Flight"
+        ],
+        "passives": [
+          "Focus Energy",
+          "Iron Defense",
+          "Swords Dance",
+          "Swarm",
+          "Technician",
+          "Mega Technician"
+        ],
+        "size": "Medium",
+        "weight": "Heavy",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Heracross": [
+      {
+        "name": "Mega Heracross",
+        "types": [
+          "Bug",
+          "Fighting"
+        ],
+        "ability": "Mega Skill Link",
+        "stats": {
+          "hp": 48,
+          "atk": 19,
+          "def": 12,
+          "satk": 4,
+          "sdef": 11,
+          "spd": 8
+        },
+        "statBoosts": {
+          "atk": 5,
+          "def": 4,
+          "sdef": 1,
+          "spd": -1
+        },
+        "moves": [
+          "Chip Away",
+          "Megahorn",
+          "Close Combat"
+        ],
+        "skills": [
+          "Flight"
+        ],
+        "passives": [
+          "Leer",
+          "Guts",
+          "Swarm",
+          "Mega Skill Link"
+        ],
+        "size": "Large",
+        "weight": "Medium",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Pinsir": [
+      {
+        "name": "Mega Pinsir",
+        "types": [
+          "Bug",
+          "Flying"
+        ],
+        "ability": "Aerilate",
+        "stats": {
+          "hp": 42,
+          "atk": 16,
+          "def": 12,
+          "satk": 7,
+          "sdef": 9,
+          "spd": 11
+        },
+        "statBoosts": {
+          "atk": 1,
+          "def": 1,
+          "satk": 1,
+          "sdef": 2,
+          "spd": 2
+        },
+        "moves": [
+          "Brick Break",
+          "X-Scissor",
+          "Guillotine"
+        ],
+        "skills": [],
+        "passives": [
+          "Focus Energy",
+          "Harden",
+          "Swords Dance",
+          "Hyper Cutter",
+          "Mold Breaker",
+          "Aerilate"
+        ],
+        "size": "Large",
+        "weight": "Medium",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Houndoom": [
+      {
+        "name": "Mega Houndoom",
+        "types": [
+          "Dark",
+          "Fire"
+        ],
+        "ability": "Solar Energy",
+        "stats": {
+          "hp": 48,
+          "atk": 9,
+          "def": 9,
+          "satk": 14,
+          "sdef": 9,
+          "spd": 12
+        },
+        "statBoosts": {
+          "atk": -1,
+          "def": 4,
+          "satk": 2,
+          "sdef": 1,
+          "spd": 2
+        },
+        "moves": [
+          "Fire Fang",
+          "Flamethrower",
+          "Crunch"
+        ],
+        "skills": [
+          "Firestarter"
+        ],
+        "passives": [
+          "Leer",
+          "Nasty Plot",
+          "Early Bird",
+          "Flash Fire",
+          "Unnerve",
+          "Solar Energy"
+        ],
+        "size": "Large",
+        "weight": "Medium",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Absol": [
+      {
+        "name": "Mega Absol",
+        "types": [
+          "Dark"
+        ],
+        "ability": "Magic Bounce",
+        "stats": {
+          "hp": 42,
+          "atk": 15,
+          "def": 6,
+          "satk": 12,
+          "sdef": 6,
+          "spd": 12
+        },
+        "statBoosts": {
+          "satk": 4,
+          "spd": 4
+        },
+        "moves": [
+          "Slash",
+          "Night Slash",
+          "Psycho Cut"
+        ],
+        "skills": [
+          "Flight"
+        ],
+        "passives": [
+          "Super Luck",
+          "Swords Dance",
+          "Justified",
+          "Pressure",
+          "Magic Bounce"
+        ],
+        "size": "Medium",
+        "weight": "Medium",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Sableye": [
+      {
+        "name": "Mega Sableye",
+        "types": [
+          "Dark",
+          "Ghost"
+        ],
+        "ability": "Magic Bounce",
+        "stats": {
+          "hp": 30,
+          "atk": 9,
+          "def": 13,
+          "satk": 9,
+          "sdef": 12,
+          "spd": 2
+        },
+        "statBoosts": {
+          "def": 5,
+          "satk": 2,
+          "sdef": 5,
+          "spd": -3
+        },
+        "moves": [
+          "Shadow Sneak",
+          "Power Gem",
+          "Knock Off"
+        ],
+        "skills": [
+          "Stealth"
+        ],
+        "passives": [
+          "Leer",
+          "Keen Eye",
+          "Prankster",
+          "Magic Bounce"
+        ],
+        "size": "Medium",
+        "weight": "Medium",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Salamence": [
+      {
+        "name": "Mega Salamence",
+        "types": [
+          "Dragon",
+          "Flying"
+        ],
+        "ability": "Aerilate",
+        "stats": {
+          "hp": 60,
+          "atk": 15,
+          "def": 13,
+          "satk": 12,
+          "sdef": 9,
+          "spd": 12
+        },
+        "statBoosts": {
+          "def": 5,
+          "satk": 1,
+          "sdef": 1
+        },
+        "moves": [
+          "Fly",
+          "Dragon Claw",
+          "Zen Headbutt"
+        ],
+        "skills": [
+          "Firestarter",
+          "Flight"
+        ],
+        "passives": [
+          "Focus Energy",
+          "Moxie",
+          "Scary Face",
+          "Rock Head",
+          "Sheer Force",
+          "Aerilate"
+        ],
+        "size": "Large",
+        "weight": "Heavy",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Garchomp": [
+      {
+        "name": "Mega Garchomp",
+        "types": [
+          "Dragon",
+          "Ground"
+        ],
+        "ability": "Sand Power",
+        "stats": {
+          "hp": 66,
+          "atk": 17,
+          "def": 12,
+          "satk": 12,
+          "sdef": 10,
+          "spd": 9
+        },
+        "statBoosts": {
+          "atk": 4,
+          "def": 2,
+          "satk": 4,
+          "sdef": 1,
+          "spd": -1
+        },
+        "moves": [
+          "Sandstorm",
+          "Crunch",
+          "Dragon Rush"
+        ],
+        "skills": [
+          "Burrow",
+          "Flight",
+          "Groundshaper"
+        ],
+        "passives": [
+          "Rough Skin",
+          "Sand Veil",
+          "Sand Power"
+        ],
+        "size": "Large",
+        "weight": "Heavy",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Altaria": [
+      {
+        "name": "Mega Altaria",
+        "types": [
+          "Dragon",
+          "Fairy"
+        ],
+        "ability": "Pixilate",
+        "stats": {
+          "hp": 48,
+          "atk": 11,
+          "def": 11,
+          "satk": 11,
+          "sdef": 11,
+          "spd": 8
+        },
+        "statBoosts": {
+          "atk": 3,
+          "def": -1,
+          "satk": 4,
+          "spd": -1
+        },
+        "moves": [
+          "Dragon Breath",
+          "Perish Song",
+          "Moonblast"
+        ],
+        "skills": [
+          "Flight"
+        ],
+        "passives": [
+          "Cotton Guard",
+          "Dragon Dance",
+          "Cloud Nine",
+          "Natural Cure",
+          "Pixilate"
+        ],
+        "size": "Large",
+        "weight": "Medium",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Ampharos": [
+      {
+        "name": "Mega Ampharos",
+        "types": [
+          "Electric",
+          "Dragon"
+        ],
+        "ability": "Mold Breaker",
+        "stats": {
+          "hp": 54,
+          "atk": 10,
+          "def": 11,
+          "satk": 17,
+          "sdef": 11,
+          "spd": 5
+        },
+        "statBoosts": {
+          "atk": 2,
+          "def": -1,
+          "satk": 5,
+          "sdef": 2,
+          "spd": -3
+        },
+        "moves": [
+          "Thunder Punch",
+          "Confuse Ray",
+          "Power Gem"
+        ],
+        "skills": [
+          "Zapper"
+        ],
+        "passives": [
+          "Cotton Guard",
+          "Cotton Spore",
+          "Plus",
+          "Static",
+          "Mold Breaker"
+        ],
+        "size": "Large",
+        "weight": "Medium",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Manectric": [
+      {
+        "name": "Mega Manectric",
+        "types": [
+          "Electric"
+        ],
+        "ability": "Mega Intimidate",
+        "stats": {
+          "hp": 42,
+          "atk": 8,
+          "def": 8,
+          "satk": 14,
+          "sdef": 8,
+          "spd": 14
+        },
+        "statBoosts": {
+          "atk": -1,
+          "def": 2,
+          "satk": 3,
+          "sdef": 2,
+          "spd": 3
+        },
+        "moves": [
+          "Thunder Fang",
+          "Roar",
+          "Thunder"
+        ],
+        "skills": [
+          "Zapper"
+        ],
+        "passives": [
+          "Howl",
+          "Lightning Rod",
+          "Minus",
+          "Static",
+          "Mega Intimidate"
+        ],
+        "size": "Large",
+        "weight": "Medium",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Medicham": [
+      {
+        "name": "Mega Medicham",
+        "types": [
+          "Fighting",
+          "Psychic"
+        ],
+        "ability": "Purest Power",
+        "stats": {
+          "hp": 36,
+          "atk": 10,
+          "def": 9,
+          "satk": 8,
+          "sdef": 9,
+          "spd": 10
+        },
+        "statBoosts": {
+          "atk": -2,
+          "def": 1,
+          "satk": 1,
+          "spd": 2
+        },
+        "moves": [
+          "Mind Reader",
+          "High Jump Kick",
+          "Recover"
+        ],
+        "skills": [
+          "Telekinetic",
+          "Telepath"
+        ],
+        "passives": [
+          "Calm Mind",
+          "Pure Power",
+          "Telepathy",
+          "Purest Power"
+        ],
+        "size": "Medium",
+        "weight": "Medium",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Lucario": [
+      {
+        "name": "Mega Lucario",
+        "types": [
+          "Fighting",
+          "Steel"
+        ],
+        "ability": "Mega Adaptability",
+        "stats": {
+          "hp": 42,
+          "atk": 15,
+          "def": 9,
+          "satk": 14,
+          "sdef": 7,
+          "spd": 11
+        },
+        "statBoosts": {
+          "atk": 1,
+          "def": 2,
+          "spd": 2
+        },
+        "moves": [
+          "Power-Up Punch",
+          "Aura Sphere",
+          "Close Combat"
+        ],
+        "skills": [
+          "Telepath",
+          "Tracker"
+        ],
+        "passives": [
+          "Metal Sound",
+          "Swords Dance",
+          "Work Up",
+          "Inner Focus",
+          "Justified",
+          "Mega Adaptability"
+        ],
+        "size": "Medium",
+        "weight": "Medium",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Camerupt": [
+      {
+        "name": "Mega Camerupt",
+        "types": [
+          "Fire",
+          "Ground"
+        ],
+        "ability": "Sheerest Force",
+        "stats": {
+          "hp": 42,
+          "atk": 12,
+          "def": 10,
+          "satk": 15,
+          "sdef": 11,
+          "spd": 2
+        },
+        "statBoosts": {
+          "atk": 2,
+          "def": 2,
+          "satk": 14,
+          "sdef": 1,
+          "spd": -2
+        },
+        "moves": [
+          "Rock Slide",
+          "Earth Power",
+          "Earthquake"
+        ],
+        "skills": [
+          "Firestarter",
+          "Heater",
+          "Sinker",
+          "Groundshaper"
+        ],
+        "passives": [
+          "Amnesia",
+          "Growl",
+          "Focus Energy",
+          "Anger Point",
+          "Solid Rock",
+          "Oblivious",
+          "Sheerest Force"
+        ],
+        "size": "Large",
+        "weight": "Superweight",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Gengar": [
+      {
+        "name": "Mega Gengar",
+        "types": [
+          "Ghost",
+          "Poison"
+        ],
+        "ability": "Shadow Pull",
+        "stats": {
+          "hp": 36,
+          "atk": 7,
+          "def": 8,
+          "satk": 17,
+          "sdef": 10,
+          "spd": 13
+        },
+        "statBoosts": {
+          "def": 2,
+          "satk": 4,
+          "sdef": 2,
+          "spd": 2
+        },
+        "moves": [
+          "Shadow Ball",
+          "Dream Eater",
+          "Dark Pulse"
+        ],
+        "skills": [
+          "Flight",
+          "Invisibility",
+          "Phasing",
+          "Grounded"
+        ],
+        "passives": [
+          "Cursed Body",
+          "Levitate",
+          "Shadow Pull"
+        ],
+        "size": "Large",
+        "weight": "Medium",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Banette": [
+      {
+        "name": "Mega Banette",
+        "types": [
+          "Ghost"
+        ],
+        "ability": "Prankster",
+        "stats": {
+          "hp": 36,
+          "atk": 17,
+          "def": 8,
+          "satk": 9,
+          "sdef": 8,
+          "spd": 8
+        },
+        "statBoosts": {
+          "atk": 3,
+          "def": 1,
+          "satk": 1,
+          "sdef": 2,
+          "spd": 1
+        },
+        "moves": [
+          "Shadow Ball",
+          "Sucker Punch",
+          "Trick"
+        ],
+        "skills": [
+          "Flight",
+          "Invisibility",
+          "Phasing",
+          "Telekinetic"
+        ],
+        "passives": [
+          "Screech",
+          "Cursed Body",
+          "Prankster"
+        ],
+        "size": "Medium",
+        "weight": "Medium",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Abomasnow": [
+      {
+        "name": "Mega Abomasnow",
+        "types": [
+          "Grass",
+          "Ice"
+        ],
+        "ability": "Snow Front",
+        "stats": {
+          "hp": 54,
+          "atk": 13,
+          "def": 11,
+          "satk": 13,
+          "sdef": 11,
+          "spd": 3
+        },
+        "statBoosts": {
+          "atk": 3,
+          "def": 3,
+          "satk": 4,
+          "sdef": 2,
+          "spd": -3
+        },
+        "moves": [
+          "Swagger",
+          "Wood Hammer",
+          "Blizzard"
+        ],
+        "skills": [
+          "Chilled",
+          "Freezer"
+        ],
+        "passives": [
+          "Leer",
+          "Snow Warning",
+          "Soundproof",
+          "Snow Front"
+        ],
+        "size": "Huge",
+        "weight": "Superweight",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Glalie": [
+      {
+        "name": "Mega Glalie",
+        "types": [
+          "Ice"
+        ],
+        "ability": "Refrigerate",
+        "stats": {
+          "hp": 48,
+          "atk": 12,
+          "def": 8,
+          "satk": 12,
+          "sdef": 8,
+          "spd": 10
+        },
+        "statBoosts": {
+          "atk": 3,
+          "satk": 4,
+          "spd": 2
+        },
+        "moves": [
+          "Ice Fang",
+          "Crunch",
+          "Blizzard"
+        ],
+        "skills": [
+          "Chilled",
+          "Hover",
+          "Freezer"
+        ],
+        "passives": [
+          "Leer",
+          "Ice Body",
+          "Inner Focus",
+          "Refrigerate"
+        ],
+        "size": "Huge",
+        "weight": "Superweight",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Pidgeot": [
+      {
+        "name": "Mega Pidgeot",
+        "types": [
+          "Normal",
+          "Flying"
+        ],
+        "ability": "No Guard",
+        "stats": {
+          "hp": 48,
+          "atk": 8,
+          "def": 8,
+          "satk": 14,
+          "sdef": 8,
+          "spd": 12
+        },
+        "statBoosts": {
+          "def": -2,
+          "satk": 7,
+          "sdef": 1
+        },
+        "moves": [
+          "Mirror Move",
+          "Air Slash",
+          "Hurricane"
+        ],
+        "skills": [
+          "Flight",
+          "Guster"
+        ],
+        "passives": [
+          "Agility",
+          "Feather Dance",
+          "Big Pecks",
+          "Keen Eye",
+          "Tangled Feet",
+          "No Guard"
+        ],
+        "size": "Large",
+        "weight": "Medium",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Lopunny": [
+      {
+        "name": "Mega Lopunny",
+        "types": [
+          "Normal"
+        ],
+        "ability": "Scrappy",
+        "stats": {
+          "hp": 42,
+          "atk": 14,
+          "def": 9,
+          "satk": 5,
+          "sdef": 10,
+          "spd": 14
+        },
+        "statBoosts": {
+          "atk": 5,
+          "satk": -1,
+          "spd": 1
+        },
+        "moves": [
+          "Return",
+          "Bounce",
+          "High Jump Kick"
+        ],
+        "skills": [],
+        "passives": [
+          "Agility",
+          "Defense Curl",
+          "Rototiller",
+          "Cute Charm",
+          "Limber",
+          "Scrappy"
+        ],
+        "size": "Medium",
+        "weight": "Medium",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Audino": [
+      {
+        "name": "Mega Audino",
+        "types": [
+          "Normal",
+          "Fairy"
+        ],
+        "ability": "Mega Healer",
+        "stats": {
+          "hp": 60,
+          "atk": 6,
+          "def": 13,
+          "satk": 8,
+          "sdef": 13,
+          "spd": 5
+        },
+        "statBoosts": {
+          "def": 4,
+          "satk": 2,
+          "sdef": 4
+        },
+        "moves": [
+          "Refresh",
+          "Attract",
+          "Heal Pulse"
+        ],
+        "skills": [],
+        "passives": [
+          "Healer",
+          "Regenerator",
+          "Mega Healer"
+        ],
+        "size": "Medium",
+        "weight": "Medium",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Kangaskhan": [
+      {
+        "name": "Mega Kangaskhan",
+        "types": [
+          "Normal"
+        ],
+        "ability": "Parental Bond",
+        "stats": {
+          "hp": 66,
+          "atk": 13,
+          "def": 10,
+          "satk": 6,
+          "sdef": 10,
+          "spd": 10
+        },
+        "statBoosts": {
+          "atk": 2,
+          "def": 2,
+          "satk": 2,
+          "sdef": 2,
+          "spd": 1
+        },
+        "moves": [
+          "Comet Punch",
+          "Mega Punch",
+          "Crunch"
+        ],
+        "skills": [],
+        "passives": [
+          "Leer",
+          "Early Bird",
+          "Scrappy",
+          "Parental Bond"
+        ],
+        "size": "Large",
+        "weight": "Heavy",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Alakazam": [
+      {
+        "name": "Mega Alakazam",
+        "types": [
+          "Psychic"
+        ],
+        "ability": "Trace",
+        "stats": {
+          "hp": 36,
+          "atk": 5,
+          "def": 7,
+          "satk": 18,
+          "sdef": 11,
+          "spd": 15
+        },
+        "statBoosts": {
+          "def": 2,
+          "satk": 3,
+          "spd": 3
+        },
+        "moves": [
+          "Recover",
+          "Psychic",
+          "Future Sight"
+        ],
+        "skills": [
+          "Intelligence",
+          "Telekinetic",
+          "Telepath"
+        ],
+        "passives": [
+          "Inner Focus",
+          "Magic Guard",
+          "Synchronize",
+          "Calm Mind",
+          "Trace"
+        ],
+        "size": "Medium",
+        "weight": "Medium",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Gardevoir": [
+      {
+        "name": "Mega Gardevoir",
+        "types": [
+          "Psychic",
+          "Fairy"
+        ],
+        "ability": "Pixilate",
+        "stats": {
+          "hp": 42,
+          "atk": 9,
+          "def": 7,
+          "satk": 17,
+          "sdef": 14,
+          "spd": 10
+        },
+        "statBoosts": {
+          "atk": 2,
+          "def": -1,
+          "satk": 4,
+          "sdef": 2,
+          "spd": 2
+        },
+        "moves": [
+          "Wish",
+          "Psychic",
+          "Moonblast"
+        ],
+        "skills": [
+          "Flight",
+          "Telekinetic",
+          "Telepath"
+        ],
+        "passives": [
+          "Growl",
+          "Synchronize",
+          "Telepathy",
+          "Pixilate"
+        ],
+        "size": "Medium",
+        "weight": "Medium",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Gallade": [
+      {
+        "name": "Mega Gallade",
+        "types": [
+          "Psychic",
+          "Fighting"
+        ],
+        "ability": "Synchronize",
+        "stats": {
+          "hp": 42,
+          "atk": 17,
+          "def": 10,
+          "satk": 7,
+          "sdef": 12,
+          "spd": 11
+        },
+        "statBoosts": {
+          "atk": 4,
+          "def": 2,
+          "spd": 3
+        },
+        "moves": [
+          "Slash",
+          "Psycho Cut",
+          "Close Combat"
+        ],
+        "skills": [
+          "Telekinetic",
+          "Telepath"
+        ],
+        "passives": [
+          "Growl",
+          "Justified",
+          "Steadfast",
+          "Mega Inner Focus",
+          "Synchronize"
+        ],
+        "size": "Medium",
+        "weight": "Medium",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Tyranitar": [
+      {
+        "name": "Mega Tyranitar",
+        "types": [
+          "Rock",
+          "Dark"
+        ],
+        "ability": "Sand Vortex",
+        "stats": {
+          "hp": 60,
+          "atk": 16,
+          "def": 15,
+          "satk": 10,
+          "sdef": 12,
+          "spd": 7
+        },
+        "statBoosts": {
+          "atk": 1,
+          "def": 4,
+          "sdef": 2,
+          "spd": 1
+        },
+        "moves": [
+          "Sandstorm",
+          "Crunch",
+          "Earthquake"
+        ],
+        "skills": [
+          "Sinker",
+          "Groundshaper"
+        ],
+        "passives": [
+          "Screech",
+          "Guts",
+          "Sand Stream",
+          "Sand Vortex"
+        ],
+        "size": "Large",
+        "weight": "Superweight",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Aerodactyl": [
+      {
+        "name": "Mega Aerodactyl",
+        "types": [
+          "Rock",
+          "Flying"
+        ],
+        "ability": "Tough Claws and Fangs",
+        "stats": {
+          "hp": 48,
+          "atk": 14,
+          "def": 9,
+          "satk": 7,
+          "sdef": 10,
+          "spd": 15
+        },
+        "statBoosts": {
+          "atk": 3,
+          "def": 2,
+          "satk": 1,
+          "sdef": 2,
+          "spd": 2
+        },
+        "moves": [
+          "Ancient Power",
+          "Crunch",
+          "Sky Drop"
+        ],
+        "skills": [
+          "Flight"
+        ],
+        "passives": [
+          "Pressure",
+          "Rock Head",
+          "Unnerve",
+          "Tough Claws and Fangs"
+        ],
+        "size": "Huge",
+        "weight": "Medium",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Aggron": [
+      {
+        "name": "Mega Aggron",
+        "types": [
+          "Steel"
+        ],
+        "ability": "Mega Filter",
+        "stats": {
+          "hp": 42,
+          "atk": 14,
+          "def": 23,
+          "satk": 6,
+          "sdef": 8,
+          "spd": 5
+        },
+        "statBoosts": {
+          "atk": 3,
+          "def": 3,
+          "sdef": 2,
+          "spd": -2
+        },
+        "moves": [
+          "Rock Slide",
+          "Iron Tail",
+          "Heavy Slam"
+        ],
+        "skills": [
+          "Sinker"
+        ],
+        "passives": [
+          "Autotomize",
+          "Iron Defense",
+          "Rock Head",
+          "Sturdy",
+          "Mega Filter"
+        ],
+        "size": "Huge",
+        "weight": "Superweight",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Metagross": [
+      {
+        "name": "Mega Metagross",
+        "types": [
+          "Steel",
+          "Psychic"
+        ],
+        "ability": "Tough Claws and Fangs",
+        "stats": {
+          "hp": 48,
+          "atk": 15,
+          "def": 15,
+          "satk": 11,
+          "sdef": 11,
+          "spd": 11
+        },
+        "statBoosts": {
+          "atk": 1,
+          "satk": 1,
+          "sdef": 2,
+          "spd": 2
+        },
+        "moves": [
+          "Hammer Arm",
+          "Zen Headbutt",
+          "Meteor Mash"
+        ],
+        "skills": [
+          "Flight",
+          "Intelligence",
+          "Magnetic",
+          "Telekinetic"
+        ],
+        "passives": [
+          "Agility",
+          "Iron Defense",
+          "Clear Body",
+          "Tough Claws and Fangs"
+        ],
+        "size": "Huge",
+        "weight": "Superweight",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Steelix": [
+      {
+        "name": "Mega Steelix",
+        "types": [
+          "Steel",
+          "Ground"
+        ],
+        "ability": "Steel Force",
+        "stats": {
+          "hp": 48,
+          "atk": 13,
+          "def": 23,
+          "satk": 6,
+          "sdef": 10,
+          "spd": 3
+        },
+        "statBoosts": {
+          "atk": 1,
+          "def": 3,
+          "satk": -1,
+          "sdef": 3,
+          "spd": -2
+        },
+        "moves": [
+          "Dragon Breath",
+          "Iron Tail",
+          "Stone Edge"
+        ],
+        "skills": [
+          "Burrow",
+          "Hover"
+        ],
+        "passives": [
+          "Autotomize",
+          "Rototiller",
+          "Screech",
+          "Rock Head",
+          "Sheer Force",
+          "Sturdy",
+          "Steel Force"
+        ],
+        "size": "Gigantic",
+        "weight": "Superweight",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Mawile": [
+      {
+        "name": "Mega Mawile",
+        "types": [
+          "Steel",
+          "Fairy"
+        ],
+        "ability": "Huge Power",
+        "stats": {
+          "hp": 30,
+          "atk": 11,
+          "def": 13,
+          "satk": 6,
+          "sdef": 10,
+          "spd": 5
+        },
+        "statBoosts": {
+          "atk": 2,
+          "def": 3,
+          "sdef": 4
+        },
+        "moves": [
+          "Taunt",
+          "Iron Head",
+          "Play Rough"
+        ],
+        "skills": [],
+        "passives": [
+          "Growl",
+          "Intimidate",
+          "Hyper Cutter",
+          "Sheer Force",
+          "Huge Power"
+        ],
+        "size": "Small",
+        "weight": "Medium",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Sharpedo": [
+      {
+        "name": "Mega Sharpedo",
+        "types": [
+          "Water",
+          "Dark"
+        ],
+        "ability": "Mega Jaw",
+        "stats": {
+          "hp": 42,
+          "atk": 14,
+          "def": 7,
+          "satk": 11,
+          "sdef": 7,
+          "spd": 11
+        },
+        "statBoosts": {
+          "def": 3,
+          "satk": 1,
+          "sdef": 3,
+          "spd": -1
+        },
+        "moves": [
+          "Slash",
+          "Ice Fang",
+          "Crunch"
+        ],
+        "skills": [
+          "Fountain",
+          "Flopper",
+          "Gilled",
+          "Swimmer"
+        ],
+        "passives": [
+          "Speed Boost",
+          "Focus Energy",
+          "Screech",
+          "Rough Skin",
+          "Mega Jaw"
+        ],
+        "size": "Large",
+        "weight": "Heavy",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Gyarados": [
+      {
+        "name": "Mega Gyarados",
+        "types": [
+          "Water",
+          "Dark"
+        ],
+        "ability": "Swift Swim",
+        "stats": {
+          "hp": 60,
+          "atk": 16,
+          "def": 11,
+          "satk": 7,
+          "sdef": 13,
+          "spd": 8
+        },
+        "statBoosts": {
+          "atk": 2,
+          "def": 2,
+          "satk": 1,
+          "sdef": 3,
+          "spd": -3
+        },
+        "moves": [
+          "Bite",
+          "Ice Fang",
+          "Aqua Tail"
+        ],
+        "skills": [
+          "Fountain",
+          "Gilled",
+          "Swimmer",
+          "Hover"
+        ],
+        "passives": [
+          "Dragon Dance",
+          "Scary Face",
+          "Swift Swim"
+        ],
+        "size": "Huge",
+        "weight": "Superweight",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Slowbro": [
+      {
+        "name": "Mega Slowbro",
+        "types": [
+          "Water",
+          "Psychic"
+        ],
+        "ability": "Mega Shell Armor",
+        "stats": {
+          "hp": 60,
+          "atk": 8,
+          "def": 18,
+          "satk": 13,
+          "sdef": 8,
+          "spd": 3
+        },
+        "statBoosts": {
+          "def": 6,
+          "satk": 3,
+          "sdef": -2
+        },
+        "moves": [
+          "Confusion",
+          "Water Pulse",
+          "Psychic"
+        ],
+        "skills": [
+          "Fountain",
+          "Swimmer",
+          "Telekinetic"
+        ],
+        "passives": [
+          "Amnesia",
+          "Withdraw",
+          "Oblivious",
+          "Own Tempo",
+          "Regenerator",
+          "Mega Shell Armor"
+        ],
+        "size": "Medium",
+        "weight": "Heavy",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Mewtwo": [
+      {
+        "name": "Mega Mewtwo X",
+        "types": [
+          "Psychic",
+          "Fighting"
+        ],
+        "ability": "Unnerve",
+        "stats": {
+          "hp": 66,
+          "atk": 19,
+          "def": 10,
+          "satk": 15,
+          "sdef": 10,
+          "spd": 13
+        },
+        "statBoosts": {
+          "hp": -264,
+          "atk": 8,
+          "def": -6,
+          "satk": -1,
+          "sdef": -6
+        },
+        "moves": [
+          "Confusion",
+          "Psychic",
+          "Recover"
+        ],
+        "skills": [
+          "Flight"
+        ],
+        "passives": [
+          "Amnesia",
+          "Barrier",
+          "Nasty Plot",
+          "Pressure",
+          "Steadfast",
+          "Unnerve"
+        ],
+        "size": "Large",
+        "weight": "Heavy",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      },
+      {
+        "name": "Mega Mewtwo Y",
+        "types": [
+          "Psychic"
+        ],
+        "ability": "Unnerve",
+        "stats": {
+          "hp": 66,
+          "atk": 15,
+          "def": 7,
+          "satk": 19,
+          "sdef": 12,
+          "spd": 14
+        },
+        "statBoosts": {
+          "hp": -264,
+          "atk": 4,
+          "def": -9,
+          "satk": 3,
+          "sdef": -4,
+          "spd": 1
+        },
+        "moves": [
+          "Confusion",
+          "Psychic",
+          "Recover"
+        ],
+        "skills": [
+          "Flight"
+        ],
+        "passives": [
+          "Amnesia",
+          "Barrier",
+          "Nasty Plot",
+          "Pressure",
+          "Steadfast",
+          "Unnerve"
+        ],
+        "size": "Medium",
+        "weight": "Medium",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Latias": [
+      {
+        "name": "Mega Latias",
+        "types": [
+          "Dragon",
+          "Psychic"
+        ],
+        "ability": "Levitate",
+        "stats": {
+          "hp": 48,
+          "atk": 10,
+          "def": 12,
+          "satk": 14,
+          "sdef": 15,
+          "spd": 11
+        },
+        "statBoosts": {
+          "hp": -48,
+          "atk": 1,
+          "def": 2,
+          "satk": 3,
+          "sdef": 2,
+          "spd": -3
+        },
+        "moves": [
+          "Heal Pulse",
+          "Recover",
+          "Psychic"
+        ],
+        "skills": [
+          "Telepath",
+          "Guster",
+          "Invisibility",
+          "Flight"
+        ],
+        "passives": [
+          "Agility",
+          "Dragon Dance",
+          "Charm",
+          "Levitate"
+        ],
+        "size": "Large",
+        "weight": "Medium",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Latios": [
+      {
+        "name": "Mega Latios",
+        "types": [
+          "Dragon",
+          "Psychic"
+        ],
+        "ability": "Levitate",
+        "stats": {
+          "hp": 48,
+          "atk": 12,
+          "def": 10,
+          "satk": 16,
+          "sdef": 12,
+          "spd": 11
+        },
+        "statBoosts": {
+          "hp": -48,
+          "atk": 2,
+          "def": 1,
+          "satk": 3,
+          "sdef": 1,
+          "spd": -3
+        },
+        "moves": [
+          "Heal Pulse",
+          "Recover",
+          "Psychic"
+        ],
+        "skills": [
+          "Guster",
+          "Flight",
+          "Telepath",
+          "Invisibility"
+        ],
+        "passives": [
+          "Charm",
+          "Dragon Dance",
+          "Agility",
+          "Levitate"
+        ],
+        "size": "Large",
+        "weight": "Medium",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Diancie": [
+      {
+        "name": "Mega Diancie",
+        "types": [
+          "Rock",
+          "Fairy"
+        ],
+        "ability": "Harden",
+        "stats": {
+          "hp": 30,
+          "atk": 16,
+          "def": 11,
+          "satk": 16,
+          "sdef": 11,
+          "spd": 11
+        },
+        "statBoosts": {
+          "hp": -60,
+          "atk": 5,
+          "def": -5,
+          "satk": 6,
+          "sdef": -4,
+          "spd": 6
+        },
+        "moves": [
+          "Power Gem",
+          "Stealth Rock",
+          "Stone Edge"
+        ],
+        "skills": [
+          "Telepath",
+          "Flight",
+          "Groundshaper"
+        ],
+        "passives": [
+          "Clear Body",
+          "Sharpen",
+          "Magic Bounce",
+          "Harden"
+        ],
+        "size": "Medium",
+        "weight": "Medium",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ],
+    "Rayquaza": [
+      {
+        "name": "Mega Rayquaza",
+        "types": [
+          "Dragon",
+          "Flying"
+        ],
+        "ability": "Dragon Dance",
+        "stats": {
+          "hp": 66,
+          "atk": 18,
+          "def": 10,
+          "satk": 18,
+          "sdef": 10,
+          "spd": 12
+        },
+        "statBoosts": {
+          "hp": -1194,
+          "atk": 2,
+          "def": 1,
+          "satk": 3,
+          "sdef": 1,
+          "spd": -1
+        },
+        "moves": [
+          "Fly",
+          "Dragon Pulse",
+          "Extreme Speed"
+        ],
+        "skills": [
+          "Swimmer",
+          "Strength",
+          "Intelligence",
+          "Guster",
+          "Flight",
+          "Burrow"
+        ],
+        "passives": [
+          "Scary Face",
+          "Dragon Dance"
+        ],
+        "size": "Gigantic",
+        "weight": "Superweight",
+        "source": "Kopia Version Goldenrod DATA SHEET.xlsx"
+      }
+    ]
+  }
+}
