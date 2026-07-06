@@ -1,0 +1,5 @@
+@media (max-width: 720px) {
+  .pokemon-notes-view {
+    grid-template-columns: minmax(0, 1fr) !important;
+  }
+}
